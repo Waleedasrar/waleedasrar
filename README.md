@@ -10,7 +10,7 @@ I'm a Computer Engineering graduate interested in Artificial Intelligence, Machi
 -  Background in Computer Engineering
 -  Working with Python for programming and machine learning
 -  Interested in AI, Deep Learning, and Computer Vision
-- 🩻 Worked on SmartRad XAI, a chest X-ray classification project
+-  Worked on SmartRad XAI, a chest X-ray classification project
 -  Exploring data preprocessing, feature engineering, and model evaluation
 -  Continuously learning and building practical projects
 
@@ -28,7 +28,7 @@ I'm a Computer Engineering graduate interested in Artificial Intelligence, Machi
 
 ##  Featured Projects
 
-### 🩻 SmartRad XAI
+### SmartRad XAI
 An AI-based project focused on classifying chest X-ray images into selected disease categories using YOLOv8 classification. The project also explores explainable AI, report generation, and mobile application integration.
 
 **Technologies:** Python, YOLOv8, Deep Learning, FastAPI
