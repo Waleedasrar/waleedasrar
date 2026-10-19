@@ -33,12 +33,16 @@ An AI-based project focused on classifying chest X-ray images into selected dise
 
 **Technologies:** Python, YOLOv8, Deep Learning, FastAPI
 
+https://github.com/Waleedasrar/SmartRad-XAI
+
 ### Titanic Machine Learning
 A machine learning project focused on passenger survival prediction using the Titanic dataset.
 
 **Focus:** Data preprocessing, feature engineering, exploratory data analysis, and classification models.
 
 **Technologies:** Python, Pandas, NumPy, Scikit-learn
+
+https://github.com/Waleedasrar/Titanic-Survival-Prediction
 
 ###  LSTM-Based IMDB Sentiment Analysis
 
@@ -55,6 +59,8 @@ A Natural Language Processing (NLP) project that uses a Long Short-Term Memory (
 **Technologies:** Python, TensorFlow/Keras, NLP, Deep Learning
 
 **Objective:** Explore how recurrent neural networks can learn sequential patterns in text and identify sentiment in movie reviews.
+
+https://github.com/Waleedasrar/LSTM-IMDB-Sentiment-Analysis
 
 ### Python Programming Projects
 Practical exercises covering core Python, collections, functions, exception handling, and object-oriented programming.
